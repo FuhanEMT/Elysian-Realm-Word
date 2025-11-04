@@ -1,0 +1,464 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# 创建的文件:04.11.2025 17:47:58
+
+newmtl 22__
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\脸.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\脸.png
+
+newmtl 23_mayuge
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\脸.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\脸.png
+
+newmtl 24_kiba_
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\脸.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\脸.png
+
+newmtl 25_shita_
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\脸.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\脸.png
+
+newmtl 26_koukou
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\脸.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\脸.png
+
+newmtl 27_meshiro
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\脸.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\脸.png
+
+newmtl 28_gansei
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\眼睛.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\眼睛.png
+
+newmtl 29_hyoujou
+	Ns 39.3546
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\表情.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\表情.png
+
+newmtl 0___
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\裙饰.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\裙饰.png
+
+newmtl 1___1
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\头发2.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\头发2.png
+
+newmtl 2___
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\头发2.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\头发2.png
+
+newmtl 3___
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\头发2.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\头发2.png
+
+newmtl 4___0
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\头发2.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\头发2.png
+
+newmtl 5___1
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\头发1.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\头发1.png
+
+newmtl 6__hana
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\裙饰.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\裙饰.png
+
+newmtl 7___
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\裙饰.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\裙饰.png
+
+newmtl 8_momo_
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\裙饰.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\裙饰.png
+
+newmtl 9_momokabuto
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\裙饰.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\裙饰.png
+
+newmtl 10_hiji_
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\裙饰.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\裙饰.png
+
+newmtl 11___
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\衣服.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\衣服.png
+
+newmtl 12___
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\衣服.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\衣服.png
+
+newmtl 13___
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\衣服.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\衣服.png
+
+newmtl 14_katakabuto
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\衣服.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\衣服.png
+
+newmtl 15_koshikabuto
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\衣服.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\衣服.png
+
+newmtl 16____
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\衣服.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\衣服.png
+
+newmtl 17___
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\衣服.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\衣服.png
+
+newmtl 18_koromo_
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\裙饰.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\裙饰.png
+
+newmtl 19_ifuku
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\衣服.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\衣服.png
+
+newmtl 20_kawa_
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\衣服.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\衣服.png
+
+newmtl 21__ko
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\衣服.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\衣服.png
+
+newmtl 30__haba
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\头发2.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\头发2.png
+
+newmtl 31__haba1
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\头发2.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\头发2.png
+
+newmtl 32__haba2
+	Ns 23.2193
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.7529 0.7529 0.7529
+	Kd 1.0000 1.0000 1.0000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\gongyuan\Desktop\13\images\头发2.png
+	map_Kd C:\Users\gongyuan\Desktop\13\images\头发2.png
